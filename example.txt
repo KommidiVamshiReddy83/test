@@ -1,3 +1,4 @@
 this is example .txt
 added new Line
 skip stage area
+master branch
