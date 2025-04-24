@@ -4,3 +4,5 @@ skip stage area
 master branch
 pull the file
 vamshi's edit
+i am editing from intellij idea
+
