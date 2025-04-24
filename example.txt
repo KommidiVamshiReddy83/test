@@ -1,5 +1,6 @@
-this is example .txt
+this is example .tx
 added new Line
 skip stage area
 master branch
 pull the file
+vamshi's edit
